@@ -1,0 +1,39 @@
+#navlinks {
+	text-decoration: none;
+	margin-left: 6%;
+	padding: 1%;
+	font-size: 1em;
+	color: #1abc9c;
+	font-weight: bold;
+}
+#left, #middle, #right, .content-wrapper {
+	display: block;
+	float: none;
+	width: 100%;
+	height: auto;
+}
+#imgcontainer {
+	width: 55%;
+	margin: 0 auto;
+}
+#twitter-wrapper {
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+}
+h1 {
+	font-size: 1.5em;
+}
+span {
+	display: block;
+	padding: 5%;
+	font-size: 1.8em;
+	text-align: center;
+	background-color: #7f8c8d;
+}
+header {
+	height: auto;
+}
+footer {
+	height: auto;
+}

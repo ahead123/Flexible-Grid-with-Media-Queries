@@ -1,0 +1,22 @@
+#navlinks {
+	text-decoration: none;
+	margin-left: 10%;
+	padding: 1%;
+	font-size: 1.5em;
+	color: #c0392b;
+}
+#imgcontainer {
+	width: 60%;
+	margin: 0 auto;
+}
+#left, #middle, #right, .content-wrapper {
+	display: block;
+	float: none;
+	width: 100%;
+	height: auto;
+}
+.twitter-timeline {
+	margin-left: 19%;
+	margin: 0 auto	;
+}
+
